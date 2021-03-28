@@ -49,7 +49,7 @@ myCar.run();
 }
 ```
 
-객체의 메모리 주소를 변수myCare에 담는 것. 레퍼런스에 객체가 있는 것이 아니다!
+객체의 메모리 주소를 변수myCar에 담는 것. 레퍼런스에 객체가 있는 것이 아니다!
 
 ![week01_images/Untitled.png](week01_images/Untitled.png)
 
