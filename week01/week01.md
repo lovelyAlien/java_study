@@ -90,7 +90,7 @@ null을 가리키는 레퍼런스를 호출하면 Execption 발생(NullPointExce
 
 ![week01_images/Untitled%207.png](week01_images/Untitled%207.png)
 
-15-2 사용자 정의 생성자 
+# 15-2 사용자 정의 생성자 
 
 디폴트 생성자 외에 특정 목적에 의해서 개발자가 만든 생성자로, 매개변수에 차이가 있다. 
 
